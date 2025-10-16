@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:44:15 CST 2025
+guava-31.0.1-jre-sources.jar>gsmmp-virtual=
+guava-31.0.1-jre.jar>gsmmp-virtual=
+guava-31.0.1-jre.pom>gsmmp-virtual=
+guava-31.0.1-jre.pom>alimaven=
+guava-31.0.1-jre-javadoc.jar>gsmmp-virtual=

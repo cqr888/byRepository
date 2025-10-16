@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 15 15:37:00 CST 2025
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.lastUpdated=1760513820394
+https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.error=Could not transfer artifact io.netty\:netty-resolver-dns-native-macos\:jar\:sources\:4.1.76.Final from/to gsmmp-virtual (https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual)\: status code\: 403, reason phrase\: Forbidden (403)
+602c0806e406730be3cbab3fd10cd70ba32ea68b@default-gsmmp-virtual-https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.lastUpdated=1760513820362
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.error=

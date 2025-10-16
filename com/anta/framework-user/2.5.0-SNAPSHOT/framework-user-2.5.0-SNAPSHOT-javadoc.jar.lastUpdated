@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 25 08:24:35 CST 2025
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.lastUpdated=1756081475321
+https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.error=Could not transfer artifact com.anta\:framework-user\:jar\:javadoc\:2.5.0-SNAPSHOT from/to gsmmp-snapshots (https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual)\: status code\: 403, reason phrase\: Forbidden (403)
+5b77a61417c8322e56a7250c1abc6c81b3b377d2@default-gsmmp-snapshots-https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.lastUpdated=1756081475289
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.error=

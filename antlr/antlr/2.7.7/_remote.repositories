@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 20 09:36:04 CST 2025
+antlr-2.7.7.jar>gsmmp-virtual=
+antlr-2.7.7.pom>gsmmp-virtual=
+antlr-2.7.7-sources.jar>gsmmp-virtual=

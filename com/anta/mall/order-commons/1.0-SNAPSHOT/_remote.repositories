@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 20 15:46:40 CST 2025
+order-commons-1.0-SNAPSHOT.jar>=
+order-commons-1.0-20241031.095535-6.jar>gsmmp-snapshots=
+order-commons-1.0-SNAPSHOT.pom>=
+order-commons-1.0-20241031.095535-6.jar>gsmmp-virtual=

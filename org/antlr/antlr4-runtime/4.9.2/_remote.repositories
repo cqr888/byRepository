@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:27 CST 2025
+antlr4-runtime-4.9.2.jar>gsmmp-virtual=
+antlr4-runtime-4.9.2-javadoc.jar>gsmmp-virtual=
+antlr4-runtime-4.9.2.pom>gsmmp-virtual=
+antlr4-runtime-4.9.2-sources.jar>gsmmp-virtual=

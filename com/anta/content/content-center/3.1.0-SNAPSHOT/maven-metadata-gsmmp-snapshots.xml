@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.anta.content</groupId>
+  <artifactId>content-center</artifactId>
+  <version>3.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20250528.073632</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20250528073635</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.1.0-20250528.073632-1</value>
+        <updated>20250528073632</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

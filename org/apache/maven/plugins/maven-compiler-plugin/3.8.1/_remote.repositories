@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 04 13:58:03 CST 2025
+maven-compiler-plugin-3.8.1.pom>alimaven=
+maven-compiler-plugin-3.8.1.pom>gsmmp-virtual=
+maven-compiler-plugin-3.8.1.jar>gsmmp-virtual=
+maven-compiler-plugin-3.8.1.jar>alimaven=

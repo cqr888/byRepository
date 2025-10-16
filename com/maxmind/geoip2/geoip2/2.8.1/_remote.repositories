@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 07 19:11:24 CST 2025
+geoip2-2.8.1.jar>gsmmp-virtual=
+geoip2-2.8.1-sources.jar>gsmmp-virtual=
+geoip2-2.8.1.pom>gsmmp-virtual=
+geoip2-2.8.1-javadoc.jar>gsmmp-virtual=

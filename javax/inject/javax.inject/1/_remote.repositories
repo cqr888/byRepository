@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:47 CST 2025
+javax.inject-1.jar>gsmmp-virtual=
+javax.inject-1.jar>alimaven=
+javax.inject-1.pom>alimaven=
+javax.inject-1-javadoc.jar>gsmmp-virtual=
+javax.inject-1.pom>gsmmp-virtual=
+javax.inject-1-sources.jar>gsmmp-virtual=

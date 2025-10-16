@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:43:10 CST 2025
+stringtemplate-3.2.1.jar>gsmmp-virtual=
+stringtemplate-3.2.1-sources.jar>gsmmp-virtual=
+stringtemplate-3.2.1.pom>gsmmp-virtual=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:43:42 CST 2025
+snakeyaml-1.30.jar>gsmmp-virtual=
+snakeyaml-1.30-sources.jar>gsmmp-virtual=
+snakeyaml-1.30.pom>alimaven=
+snakeyaml-1.30.pom>gsmmp-virtual=
+snakeyaml-1.30.jar>alimaven=
+snakeyaml-1.30-javadoc.jar>gsmmp-virtual=

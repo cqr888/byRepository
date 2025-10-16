@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:46:13 CST 2025
+junit-platform-commons-1.8.2.jar>gsmmp-virtual=
+junit-platform-commons-1.8.2-sources.jar>gsmmp-virtual=
+junit-platform-commons-1.8.2.pom>alimaven=
+junit-platform-commons-1.8.2.pom>gsmmp-virtual=
+junit-platform-commons-1.8.2-javadoc.jar>gsmmp-virtual=

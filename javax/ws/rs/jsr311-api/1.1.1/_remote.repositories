@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:44:42 CST 2025
+jsr311-api-1.1.1.pom>gsmmp-virtual=
+jsr311-api-1.1.1-javadoc.jar>gsmmp-virtual=
+jsr311-api-1.1.1-sources.jar>gsmmp-virtual=
+jsr311-api-1.1.1.jar>gsmmp-virtual=

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.anta</groupId>
+  <artifactId>framework-spring-dependency</artifactId>
+  <version>2.5.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20250923.063052</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20250923063054</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.5.1-20250923.063052-4</value>
+        <updated>20250923063052</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

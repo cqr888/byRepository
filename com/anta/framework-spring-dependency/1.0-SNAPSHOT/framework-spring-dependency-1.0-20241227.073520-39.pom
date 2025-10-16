@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.3.12.RELEASE</version>
+        <relativePath /> <!-- lookup parent from repository -->
+    </parent>
+
+    <groupId>com.anta</groupId>
+    <artifactId>framework-spring-dependency</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>framework-spring-dependency</name>
+    <description>ANTA Group Framework Parent Dependency</description>
+    <url>http://www.anta.com</url>
+
+    <developers>
+        <developer>
+            <id>laoshuisheng</id>
+            <name>劳水生</name>
+            <email>Laoshuisheng@ANATA.COM</email>
+            <organization>ANTA GROUP</organization>
+            <organizationUrl>https://www.anta.com</organizationUrl>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+        <developer>
+            <id>Sudexiang</id>
+            <name>苏得祥</name>
+            <email>Sudexiang@ANATA.COM</email>
+            <organization>ANTA GROUP</organization>
+            <organizationUrl>https://www.anta.com</organizationUrl>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+        <developer>
+            <id>Linlinjun</id>
+            <name>刘霖均</name>
+            <email>Linlinjun@ANATA.COM</email>
+            <organization>ANTA GROUP</organization>
+            <organizationUrl>https://www.anta.com</organizationUrl>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+        <developer>
+            <id>Zhouyiwei</id>
+            <name>周一为</name>
+            <email>Zhouyiwei@ANATA.COM</email>
+            <organization>ANTA GROUP</organization>
+            <organizationUrl>https://www.anta.com</organizationUrl>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <jdk.version>11</jdk.version>
+        <spring-cloud>Hoxton.SR6</spring-cloud>
+        <spring-boot>2.3.12.RELEASE</spring-boot>
+        <spring-mybatis>2.1.1</spring-mybatis>
+        <mybatis.version>3.5.3</mybatis.version>
+        <swagger-annotations.version>1.6.3</swagger-annotations.version>
+        <springfox-swagger2>2.7.0</springfox-swagger2>
+        <swagger-bootstrap-ui>1.9.6</swagger-bootstrap-ui>
+        <apollo-version>2.0.1</apollo-version>
+        <disruptor-version>3.3.7</disruptor-version>
+        <log4j2-version>2.17.2</log4j2-version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-logging</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>*</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.lmax</groupId>
+            <artifactId>disruptor</artifactId>
+            <version>${disruptor-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    
+
+    <distributionManagement>
+        <repository>
+            <id>archive.release</id>
+            <name>Nexus Release Repository</name>
+            <url>http://artifactory.anta.com/artifactory/maven-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>archive.snapshots</id>
+            <name>Nexus Snapshot Repository</name>
+            <url>http://artifactory.anta.com/artifactory/maven-snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <target>${jdk.version}</target>
+                    <source>${jdk.version}</source>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

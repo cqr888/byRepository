@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 29 15:50:49 CST 2025
+content-api-1.0-20250924.093748-1.jar>gsmmp-snapshots=
+content-api-1.0-20250924.093748-1.pom>gsmmp-snapshots=
+content-api-1.0-SNAPSHOT.pom>=
+content-api-1.0-SNAPSHOT.jar>=

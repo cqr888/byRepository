@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 20 14:47:27 CST 2025
+byte-buddy-1.11.22.pom>gsmmp-virtual=
+byte-buddy-1.11.22.jar>gsmmp-virtual=
+byte-buddy-1.11.22-sources.jar>gsmmp-virtual=
+byte-buddy-1.11.22-javadoc.jar>gsmmp-virtual=

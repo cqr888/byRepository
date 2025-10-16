@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 06:58:33 CST 2025
+annotations-api-6.0.53.jar>gsmmp-virtual=
+annotations-api-6.0.53.pom>alimaven=
+annotations-api-6.0.53.pom>gsmmp-virtual=

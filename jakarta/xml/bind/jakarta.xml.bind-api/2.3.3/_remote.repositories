@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:03 CST 2025
+jakarta.xml.bind-api-2.3.3-sources.jar>gsmmp-virtual=
+jakarta.xml.bind-api-2.3.3-javadoc.jar>gsmmp-virtual=
+jakarta.xml.bind-api-2.3.3.jar>gsmmp-virtual=
+jakarta.xml.bind-api-2.3.3.pom>gsmmp-virtual=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:44:28 CST 2025
+elasticsearch-7.10.2-sources.jar>gsmmp-virtual=
+elasticsearch-7.10.2.pom>gsmmp-virtual=
+elasticsearch-7.10.2.jar>gsmmp-virtual=
+elasticsearch-7.10.2-javadoc.jar>gsmmp-virtual=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 20 15:48:33 CST 2025
+order-core-1.0-20241031.095535-2.jar>gsmmp-snapshots=
+order-core-1.0-SNAPSHOT.jar>=
+order-core-1.0-SNAPSHOT.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 20 15:46:30 CST 2025
+activity-core-1.0-20241031.094823-5.jar>gsmmp-virtual=
+activity-core-1.0-SNAPSHOT.jar>=
+activity-core-1.0-20241031.094823-5.jar>gsmmp-snapshots=
+activity-core-1.0-SNAPSHOT.pom>=

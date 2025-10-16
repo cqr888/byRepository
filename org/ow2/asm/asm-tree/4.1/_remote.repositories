@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 04 13:58:24 CST 2025
+asm-tree-4.1.pom>gsmmp-virtual=
+asm-tree-4.1.jar>alimaven=
+asm-tree-4.1.jar>gsmmp-virtual=
+asm-tree-4.1.pom>alimaven=

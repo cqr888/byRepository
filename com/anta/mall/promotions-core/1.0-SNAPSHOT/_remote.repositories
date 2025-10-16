@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 20 15:49:11 CST 2025
+promotions-core-1.0-SNAPSHOT.pom>=
+promotions-core-1.0-20241101.015111-2.jar>gsmmp-snapshots=
+promotions-core-1.0-SNAPSHOT.jar>=

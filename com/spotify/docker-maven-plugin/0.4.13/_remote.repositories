@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 20 10:24:33 CST 2025
+docker-maven-plugin-0.4.13.jar>gsmmp-virtual=
+docker-maven-plugin-0.4.13.pom>gsmmp-virtual=

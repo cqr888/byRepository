@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 15 15:35:50 CST 2025
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.lastUpdated=1760513750181
+https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-slf4j-impl\:jar\:javadoc\:2.24.0 from/to gsmmp-virtual (https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual)\: status code\: 403, reason phrase\: Forbidden (403)
+602c0806e406730be3cbab3fd10cd70ba32ea68b@default-gsmmp-virtual-https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.lastUpdated=1760513750147
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.error=

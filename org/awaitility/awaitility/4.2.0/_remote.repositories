@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:51 CST 2025
+awaitility-4.2.0.jar>gsmmp-virtual=
+awaitility-4.2.0-javadoc.jar>gsmmp-virtual=
+awaitility-4.2.0.pom>alimaven=
+awaitility-4.2.0.pom>gsmmp-virtual=
+awaitility-4.2.0-sources.jar>gsmmp-virtual=

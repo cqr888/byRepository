@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.anta.mall</groupId>
+  <artifactId>ai-api</artifactId>
+  <version>1.0.master-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20241120.085917</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20241120085943</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.master-20241120.085917-2</value>
+        <updated>20241120085917</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.master-20241120.085917-2</value>
+        <updated>20241120085917</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

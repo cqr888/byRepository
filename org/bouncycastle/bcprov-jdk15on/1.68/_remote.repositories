@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:44:18 CST 2025
+bcprov-jdk15on-1.68.jar>gsmmp-virtual=
+bcprov-jdk15on-1.68.pom>gsmmp-virtual=
+bcprov-jdk15on-1.68-sources.jar>gsmmp-virtual=
+bcprov-jdk15on-1.68-javadoc.jar>gsmmp-virtual=

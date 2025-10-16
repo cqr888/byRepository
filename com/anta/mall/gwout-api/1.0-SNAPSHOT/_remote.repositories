@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 29 16:08:59 CST 2025
+gwout-api-1.0-SNAPSHOT.pom>=
+gwout-api-1.0-20250619.083017-11.jar>gsmmp-virtual=
+gwout-api-1.0-SNAPSHOT.jar>=
+gwout-api-1.0-20250619.083017-11.jar>gsmmp-snapshots=

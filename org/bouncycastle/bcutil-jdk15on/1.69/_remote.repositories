@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 07 19:00:45 CST 2025
+bcutil-jdk15on-1.69.jar>alimaven=
+bcutil-jdk15on-1.69.jar>gsmmp-virtual=
+bcutil-jdk15on-1.69.pom>gsmmp-virtual=
+bcutil-jdk15on-1.69-sources.jar>gsmmp-virtual=
+bcutil-jdk15on-1.69-javadoc.jar>gsmmp-virtual=
+bcutil-jdk15on-1.69.pom>alimaven=

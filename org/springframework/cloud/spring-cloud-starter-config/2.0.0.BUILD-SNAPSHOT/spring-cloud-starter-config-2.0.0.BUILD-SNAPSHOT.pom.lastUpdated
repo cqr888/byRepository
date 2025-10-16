@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 19 14:12:38 CST 2025
+http\://10.211.238.135\:8081/nexus/content/groups/anta/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-config\:pom\:2.0.0.BUILD-SNAPSHOT from/to anta_internal (http\://10.211.238.135\:8081/nexus/content/groups/anta/)\: transfer failed for http\://10.211.238.135\:8081/nexus/content/groups/anta/org/springframework/cloud/spring-cloud-starter-config/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-config-2.0.0.BUILD-SNAPSHOT.pom
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://artifactory.antasoc.com/artifactory/atec-maven-local/.error=
+https\://artifactory.antasoc.com/artifactory/atec-maven-local/.lastUpdated=1750313558265
+https\://repo.huaweicloud.com/repository/maven/huaweicloudsdk/.error=
+@default-anta_internal-http\://10.211.238.135\:8081/nexus/content/groups/anta/.lastUpdated=1750313554933
+https\://repo.huaweicloud.com/repository/maven/huaweicloudsdk/.lastUpdated=1750313558231
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1750313553861

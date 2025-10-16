@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.anta</groupId>
+  <artifactId>framework-context-mybatisplugin</artifactId>
+  <version>2.5.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20250905.060333</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20250905060334</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.5.1-20250905.060333-3</value>
+        <updated>20250905060333</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.5.1-20250905.060333-3</value>
+        <updated>20250905060333</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

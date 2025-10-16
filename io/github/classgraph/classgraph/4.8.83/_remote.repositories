@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:48 CST 2025
+classgraph-4.8.83.pom>gsmmp-virtual=
+classgraph-4.8.83.pom>alimaven=
+classgraph-4.8.83.jar>gsmmp-virtual=
+classgraph-4.8.83-sources.jar>gsmmp-virtual=
+classgraph-4.8.83-javadoc.jar>gsmmp-virtual=

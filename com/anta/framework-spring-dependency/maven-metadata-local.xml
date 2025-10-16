@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.anta</groupId>
+  <artifactId>framework-spring-dependency</artifactId>
+  <versioning>
+    <versions>
+      <version>2.4.0-SNAPSHOT</version>
+      <version>2.5.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20250920074435</lastUpdated>
+  </versioning>
+</metadata>

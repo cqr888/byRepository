@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 05 09:45:16 CST 2025
+org.jacoco.agent-0.8.4-javadoc.jar>gsmmp-virtual=
+org.jacoco.agent-0.8.4-runtime.jar>gsmmp-virtual=
+org.jacoco.agent-0.8.4.pom>gsmmp-virtual=
+org.jacoco.agent-0.8.4-sources.jar>gsmmp-virtual=

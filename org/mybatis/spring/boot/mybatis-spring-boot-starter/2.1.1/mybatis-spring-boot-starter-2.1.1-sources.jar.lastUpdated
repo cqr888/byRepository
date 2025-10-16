@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 15 15:36:52 CST 2025
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.lastUpdated=1760513812864
+https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.error=Could not transfer artifact org.mybatis.spring.boot\:mybatis-spring-boot-starter\:jar\:sources\:2.1.1 from/to gsmmp-virtual (https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual)\: status code\: 403, reason phrase\: Forbidden (403)
+602c0806e406730be3cbab3fd10cd70ba32ea68b@default-gsmmp-virtual-https\://artifactory.anta.com/artifactory/gsmmp-maven-virtual/.lastUpdated=1760513812819
+https\://artifactory.anta.com/artifactory/jmall-maven-virtual/.error=

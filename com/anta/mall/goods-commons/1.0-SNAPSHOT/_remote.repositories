@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 29 16:09:31 CST 2025
+goods-commons-1.0-20241203.011914-8.jar>gsmmp-virtual=
+goods-commons-1.0-SNAPSHOT.pom>=
+goods-commons-1.0-SNAPSHOT.jar>=
+goods-commons-1.0-20241203.011914-8.jar>gsmmp-snapshots=
